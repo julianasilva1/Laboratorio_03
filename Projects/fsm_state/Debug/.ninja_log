@@ -1,0 +1,6 @@
+# ninja log v5
+0	1627	6477619742205590	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/fsm_state/Debug/Obj/startup_TM4C1294.o	61b8659af8e48534
+1631	4710	6477619771920918	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/fsm_state/Debug/Obj/system_TM4C1294_TW.o	bbbad0ba8fa9c0da
+72	4977	6477619771920918	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/fsm_state/Debug/Obj/driverleds.o	aca8086ef260d7e1
+4947	5166	6477619777758073	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/fsm_state/Debug/Obj/fsm_state.o	249b85bb67d36c1f
+5174	7659	6477619799572695	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/fsm_state/Debug/Exe/fsm_state.out	a55d25407f84f746

@@ -1,0 +1,27 @@
+# ninja log v5
+1	1675	6468112015727259	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/startup_TM4C1294.o	e7001f88de1cf975
+1679	4698	6468112045481393	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/simple_uart.o	279057f5571e6d43
+149	4734	6468112045481393	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/system_TM4C1294_TW.o	26fd9ab94698d279
+4726	5548	6468112054388252	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/uartstdio.o	6007d41b217e371c
+5557	7586	6468112073139148	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Exe/simple_uart.out	d0fbe0120ac56bac
+2	25	6468114031718446	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/startup_TM4C1294.o	e7001f88de1cf975
+28	164	6468114032968511	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/system_TM4C1294_TW.o	cb1df1eb9525301a
+1	23	6468117294305009	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/startup_TM4C1294.o	e7001f88de1cf975
+5	293	6468117296805136	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/simple_uart.o	279057f5571e6d43
+27	1318	6468117297117655	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/system_TM4C1294_TW.o	26fd9ab94698d279
+301	1548	6468117309462002	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/uartstdio.o	6007d41b217e371c
+1556	1660	6468117310555820	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Exe/simple_uart.out	d0fbe0120ac56bac
+2	65	6468122588846225	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/startup_TM4C1294.o	e7001f88de1cf975
+6	775	6468122595430446	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/system_TM4C1294_TW.o	26fd9ab94698d279
+87	1072	6468122598399364	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/simple_uart.o	279057f5571e6d43
+811	1227	6468122600118376	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/uartstdio.o	6007d41b217e371c
+1271	1477	6468122602930878	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Exe/simple_uart.out	f456834c565987e4
+1271	1477	6468122602930878	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/List/simple_uart.map	f456834c565987e4
+2	179	6468122635637944	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Exe/simple_uart.out	d0fbe0120ac56bac
+2	67	6468128314120345	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/startup_TM4C1294.o	e7001f88de1cf975
+5	837	6468128320704718	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/system_TM4C1294_TW.o	26fd9ab94698d279
+96	1111	6468128324227050	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/simple_uart.o	279057f5571e6d43
+878	1277	6468128325878144	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Obj/uartstdio.o	6007d41b217e371c
+1285	1551	6468128328930182	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Exe/simple_uart.out	f456834c565987e4
+1285	1551	6468128328930182	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/List/simple_uart.map	f456834c565987e4
+2	311	6468128358179632	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_uart/Debug/Exe/simple_uart.out	d0fbe0120ac56bac

@@ -1,0 +1,19 @@
+# ninja log v5
+31	285	6468982940000000	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.xcl	ffa2440412e6514b
+1	299	6468982940000000	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	8575a802fa8e2a09
+292	493	6468982942664828	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	2e8bde70738e427f
+306	609	6468982943914825	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	6b0f9e7d4e9ec7b7
+613	785	6468982945633760	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	32ea5561037e67ed
+789	3571	6468982972580843	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	c44edd8447fb23b1
+24	654	6469371840000000	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.xcl	a5a6bc0656e57d86
+662	726	6469371844928708	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	2e8bde70738e427f
+2	732	6469371840000000	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	d12cf48c00807017
+739	973	6469371847272561	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	6b0f9e7d4e9ec7b7
+976	1025	6469371847897574	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	32ea5561037e67ed
+1029	2887	6469371862116983	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	c44edd8447fb23b1
+1	88	6469459456618495	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	2e8bde70738e427f
+91	138	6469459457243529	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	32ea5561037e67ed
+142	1274	6469459467712795	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	c44edd8447fb23b1
+1	65	6469462186009485	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbi	2e8bde70738e427f
+69	116	6469462186569503	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbd	32ea5561037e67ed
+121	1279	6469462197131873	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_process_sp/Debug/BrowseInfo/simple_io_process_sp.pbw	c44edd8447fb23b1
